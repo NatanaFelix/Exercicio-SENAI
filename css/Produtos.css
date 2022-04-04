@@ -1,0 +1,25 @@
+
+body{
+    background: linear-gradient(to right, rgb(189, 195, 199), rgb(44, 62, 80));
+    
+}
+
+header{
+    background-color: 	#F5F5F5cc;
+    
+}
+
+.btn{
+    width: 100px;
+    margin-left: 10px;
+}
+
+#conteudoNavbarSuportado{
+    margin-left: 100px;
+    font-family: 'Roboto', sans-serif;
+    color: cornsilk;
+}
+
+.navbar{
+    margin-left: 10px;
+}
